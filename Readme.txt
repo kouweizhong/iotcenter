@@ -1,0 +1,2 @@
+物联网云平台 数据服务器采用php的高并发socket框架workerman； web后台管理采用优雅轻量级的codeigniter；前端采用bootstrap的AdminLte，自适应终端。
+数据库：my_iot_database，文件my_iot_database.sql
